@@ -97,4 +97,4 @@ python train_model.py
 ## Contact
 
 - Name: Sachin Vardhan
-- LinkedIn: [Harsh Patel](https://www.linkedin.com/in/sachin-vardhan-06/)
+- LinkedIn: [Sachin Vardhan](https://www.linkedin.com/in/sachin-vardhan-06/)

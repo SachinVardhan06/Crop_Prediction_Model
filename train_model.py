@@ -24,3 +24,6 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 
 # Save the trained model
 joblib.dump(model, 'crop_recommendation_model.pkl')
+
+
+# Made By Sachin Vardhan
