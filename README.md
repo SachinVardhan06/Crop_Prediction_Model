@@ -94,14 +94,7 @@ python train_model.py
 - Joblib: Model serialization
 - Gunicorn: WSGI HTTP Server (for production)
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
 ## Contact
 
-[Add your contact information here]
+- Name: Sachin Vardhan
+- LinkedIn: [Harsh Patel](https://www.linkedin.com/in/sachin-vardhan-06/)
